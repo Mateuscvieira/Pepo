@@ -1,4 +1,1 @@
-2021-12-22 16:39:12.744674-03:00: File 83c69a3d-c373-4827-990b-d31e4fd8ee09.jpg moved to C:\Users\user\Documents\JPGs
-2021-12-22 16:39:24.834716-03:00: File 4720569a-af64-44e3-9ee4-33dde909f0e7.jpg moved to C:\Users\user\Documents\JPGs
 
-2021-12-22 17:18:58.474806-03:00: File zvyrg7sau3781.jpg moved to C:\Users\user\Documents\JPGs
